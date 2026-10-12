@@ -1,0 +1,15 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {},
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "jeffry1829/ojcode": {
+          "permissions": {
+            "permissions": "write-all"
+          }
+        }
+      }
+    }
+  }
+}
